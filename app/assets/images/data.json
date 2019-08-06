@@ -1,0 +1,28 @@
+{
+    "images": [
+        {
+            "name": "cat_1",
+            "url": "https://news.nationalgeographic.com/content/dam/news/2018/05/17/you-can-train-your-cat/02-cat-training-NationalGeographic_1484324.jpg"
+        },
+        {
+            "name": "cat_2",
+            "url": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzEwNC84MzAvb3JpZ2luYWwvc2h1dHRlcnN0b2NrXzExMTA1NzIxNTkuanBn"
+        },
+        {
+            "name": "cat_3",
+            "url": "https://i.ytimg.com/vi/PbQNjkDCIn4/maxresdefault.jpg"
+        },
+        {
+            "name": "cat_4",
+            "url": "https://www.catster.com/wp-content/uploads/2018/07/Savannah-cat-long-body-shot.jpg"
+        },
+        {
+            "name": "cat_5",
+            "url": "https://mymodernmet.com/wp/wp-content/uploads/2019/07/russian-blue-cats-17.jpg"
+        },
+        {
+            "name": "cat_6",
+            "url": "https://i.ytimg.com/vi/PbQNjkDCIn4/maxresdefault.jpg"
+        }
+    ]
+}
